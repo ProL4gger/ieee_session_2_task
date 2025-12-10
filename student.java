@@ -92,6 +92,7 @@ public class student{
         student S =  new student(name, age, ID, major, grade, gpa);
         S.displayInfo();
         
+        sc.close();
     }
 
 
